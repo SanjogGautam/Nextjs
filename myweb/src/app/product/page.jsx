@@ -1,3 +1,6 @@
+"use client"
+import { useEffect, useState } from 'react'
+
 import React, { use } from 'react'
 
 function page() {
@@ -10,6 +13,7 @@ function page() {
   return (
     <>
       <h2>Products</h2>
+      
     </>
   )
 }
